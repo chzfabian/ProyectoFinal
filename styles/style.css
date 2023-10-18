@@ -2,7 +2,7 @@
 .display-none {
     display: none;
 }
-
+body {}
 /* PORTADA */
 #front {
     z-index: 4;
@@ -15,8 +15,16 @@ h1 {
     font-size: 50px;
 }
 
+H2 {
+    font-family: 'Nunito', sans-serif;
+}
+
+a, p{
+    font-family: 'Nunito', sans-serif;
+} 
+
 .cover-container {
-    background: rgba(28, 28, 28, 0.7);
+    background: rgba(28, 28, 28, 0.7);  
 }
 
 /* LOG IN */
